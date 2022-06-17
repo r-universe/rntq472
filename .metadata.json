@@ -1,0 +1,14 @@
+[
+  {
+    "package": "inverseRegex",
+    "oncran": true
+  },
+  {
+    "package": "precisePlacement",
+    "oncran": true
+  },
+  {
+    "package": "RBNZ",
+    "oncran": true
+  }
+]
