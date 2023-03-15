@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "RBNZ",
+    "package": "precisePlacement",
     "oncran": true
   },
   {
-    "package": "precisePlacement",
+    "package": "RBNZ",
     "oncran": true
   }
 ]

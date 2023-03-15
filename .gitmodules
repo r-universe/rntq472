@@ -8,13 +8,13 @@
 	url = https://github.com/rntq472/inverseregex
 	shallow = true
 	registered = true
-[submodule "RBNZ"]
-	path = RBNZ
-	url = https://github.com/rntq472/rbnz
-	shallow = true
-	registered = true
 [submodule "precisePlacement"]
 	path = precisePlacement
 	url = https://github.com/rntq472/preciseplacement
+	shallow = true
+	registered = true
+[submodule "RBNZ"]
+	path = RBNZ
+	url = https://github.com/rntq472/rbnz
 	shallow = true
 	registered = true
