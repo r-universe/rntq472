@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "inverseRegex"]
 	path = inverseRegex
 	url = https://github.com/rntq472/inverseregex
-	shallow = true
-	registered = true
 [submodule "precisePlacement"]
 	path = precisePlacement
 	url = https://github.com/rntq472/preciseplacement
-	shallow = true
-	registered = true
 [submodule "RBNZ"]
 	path = RBNZ
 	url = https://github.com/rntq472/rbnz
-	shallow = true
-	registered = true
